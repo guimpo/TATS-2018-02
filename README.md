@@ -6,4 +6,5 @@
 
 - [Nome do Aluno](https://github.com/NomeDoAluno)
 - [Jonata William](https://github.com/jonatawilliam)
+- [Paulo Nakaima](https://github.com/guimpo)
 - [Caio Thizio](https://github.com/caiothizio)
