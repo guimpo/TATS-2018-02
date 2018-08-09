@@ -20,3 +20,12 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [Transeira](https://www.youtube.com/watch?v=SzLCjVfFseo)
 - [Jonny](https://www.youtube.com/watch?v=n_Ex3bGT-tk)
 - [mico](https://www.youtube.com/watch?v=ZyhrYis509A)
+
+## Caio Thizio
+- [The Less I Know the 
+Better](https://www.youtube.com/watch?v=O2lzmpEs29M)
+- [Redbone](https://www.youtube.com/watch?v=Kp7eSUU9oy8)
+- [Something About Us](https://www.youtube.com/watch?v=em0MknB6wFo)
+= [Pedras e Sonhos](https://www.youtube.com/watch?v=EKPceNEVBLo)
+- [Danse Macabre](https://www.youtube.com/watch?v=KqXpKibOaxA)
+- [mico](https://www.youtube.com/watch?v=SjU4u6C-eaA)
