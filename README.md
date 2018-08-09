@@ -5,4 +5,4 @@
 ## Alunos
 
 - [Nome do Aluno](https://github.com/NomeDoAluno)
-- [Jonata William] (https://github.com/jonatawilliam)
+- [Jonata William](https://github.com/jonatawilliam)
