@@ -12,3 +12,11 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [mico](https://www.youtube.com/watch?v=4fndeDfaWCg)
 
 
+## Jonata William
+
+- [Idiota](https://www.youtube.com/watch?v=Q84X_AecGko)
+- [Same Old Story](https://www.youtube.com/watch?v=LGmw84OSU74)
+- [Noite](https://www.youtube.com/watch?v=DCdjwwIWW90)
+- [Transeira](https://www.youtube.com/watch?v=SzLCjVfFseo)
+- [Jonny](https://www.youtube.com/watch?v=n_Ex3bGT-tk)
+- [mico](https://www.youtube.com/watch?v=ZyhrYis509A)
