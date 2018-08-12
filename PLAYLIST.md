@@ -28,3 +28,10 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 - [Pedras e Sonhos](https://www.youtube.com/watch?v=EKPceNEVBLo)
 - [Danse Macabre](https://www.youtube.com/watch?v=KqXpKibOaxA)
 - [mico](https://www.youtube.com/watch?v=SjU4u6C-eaA)
+
+## Paulo Nakaima
+- [Stars and Stripes](https://www.youtube.com/watch?v=SBfVWZoBRiI)
+- [Solitary Gun](https://www.youtube.com/watch?v=I2FKxbhYOSk)
+- [Baticum](https://www.youtube.com/watch?v=iL9hRHyUTi4)
+- [Midgard](https://www.youtube.com/watch?v=USIjL6he2SU)
+- [Noite](https://www.youtube.com/watch?v=7ZZGAYhMaZE)
